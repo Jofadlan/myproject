@@ -1,1 +1,1 @@
-console.log("bosen halo mulu");
+/* ini adalah komentar */
