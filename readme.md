@@ -3,4 +3,4 @@ halo indonesia
 
 contoh
 
-Woi ANtek ANtek ASing
+ini contoh kalo nulis sendiri
