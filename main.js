@@ -1,1 +1,1 @@
-/* ini adalah komentar */
+console.log("contoh lewat github code");
