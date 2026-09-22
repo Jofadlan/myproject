@@ -3,4 +3,4 @@ halo indonesia
 
 contoh
 
-Halo everynyan, america yaaa halo halo
+ini contoh kalo nulis sendiri
