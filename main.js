@@ -1,1 +1,1 @@
-console.log("halo dunia");
+/* ini adalah komentar */
